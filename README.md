@@ -22,6 +22,8 @@
   - [16.BetterTownOfUS](#16bettertownofus)
   - [17.UltimateMods](#17ultimatemods)
   - [18.PropHunt](#18prophunt)
+  - [19.AllTheRoles](#19AllTheRoles)
+  - [20.Town Of Host_Y](#20Town Of Host_Y)
 - [旧模组](#旧模组)
   - [1.TownOfImpostors](#1townofimpostors)
   - [2.TownOfUs](#2townofus)
@@ -475,10 +477,25 @@ Among Us支持版本：2022.8.24
 
 [Github仓库(点这)](https://github.com/ugackMiner53/PropHunt)
 
+[返回目录](#目录)
+
+## 19.AllTheRoles
+
+![image](Image/AllTheRolesLogo.png)
+
+[Github仓库(点这)](https://github.com/Zeo666/AllTheRoles)
 
 [返回目录](#目录)
 
-# 旧模组
+## 20.Town Of Host_Y
+
+![image](Image/TOHY-Logo.png)
+
+[Github仓库(点这)](https://github.com/Yumenopai/TownOfHost_Y)
+
+[返回目录](#目录)
+
+旧模组
 
 ## 1.TownOfImpostors
 ![image](./Image/TOI-Animated.gif)
@@ -571,7 +588,7 @@ Among Us支持版本：2020.6.12
 最新版本：v1.1.0  
 Among Us支持版本：2021.6.30  
 更新状况：断更  
-   
+
 
 [返回目录](#目录)
 
@@ -775,5 +792,4 @@ Diese Module stehen in keiner Verbindung zu Among Us oder Innersloth LLC und ent
 <p align="center">
 Estos módulos no están afiliados a Among Us ni a Innersloth LLC y no contienen contenido que haya sido respaldado o patrocinado de alguna manera por Innersloth LLC. Parte del material aquí contenido es propiedad de Innersloth LLC.
 </p>
-
 [返回目录](#目录)
