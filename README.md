@@ -23,7 +23,7 @@
   - [17.UltimateMods](#17ultimatemods)
   - [18.PropHunt](#18prophunt)
   - [19.AllTheRoles](#19AllTheRoles)
-  - [20.Town Of Host Y](#20Town Of Host Y)
+  - [20.TownOfHost Y](#20TownOfHost Y)
 - [旧模组](#旧模组)
   - [1.TownOfImpostors](#1townofimpostors)
   - [2.TownOfUs](#2townofus)
