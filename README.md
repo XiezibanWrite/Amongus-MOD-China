@@ -23,7 +23,7 @@
   - [17.UltimateMods](#17ultimatemods)
   - [18.PropHunt](#18prophunt)
   - [19.AllTheRoles](#19AllTheRoles)
-  - [20.TownOfHost Y](#20TownOfHost Y)
+  - [20.TownOfHost Y](#20TownOfHostY)
 - [旧模组](#旧模组)
   - [1.TownOfImpostors](#1townofimpostors)
   - [2.TownOfUs](#2townofus)
@@ -487,7 +487,7 @@ Among Us支持版本：2022.8.24
 
 [返回目录](#目录)
 
-## 20.Town Of Host Y
+## 20.TownOfHostY
 
 ![image](Image/TOHY-Logo.png)
 
